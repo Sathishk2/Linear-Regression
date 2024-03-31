@@ -1,7 +1,7 @@
 # Regression
 Hi 
 
-Thanks for visiting my Linear Regression Repository. 
+Thanks for visiting my Regression Repository. 
 
 In this repository, I learn how to 
 
