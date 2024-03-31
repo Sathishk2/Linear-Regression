@@ -1,4 +1,4 @@
-# Linear-Regression
+# Regression
 Hi 
 
 Thanks for visiting my Linear Regression Repository. 
